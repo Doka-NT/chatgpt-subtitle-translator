@@ -3,7 +3,7 @@ ChatGPT has also demonstrated its capabilities as a [robust translator](https://
 
 This utility uses the OpenAI ChatGPT API to translate text, with a specific focus on line-based translation, especially for SRT subtitles. The translator optimizes token usage by removing SRT overhead and grouping text into batches, resulting in arbitrary length translations without excessive [token consumption](https://openai.com/api/pricing/) while ensuring a one-to-one match between line input and output.
 
-## Web Interface: <https://cerlancism.github.io/chatgpt-subtitle-translator>  
+## Web Interface: <https://doka-nt.github.io/chatgpt-subtitle-translator>  
 
 ## Features
 - Web User Interface (Web UI) and Command Line Interface (CLI)  
